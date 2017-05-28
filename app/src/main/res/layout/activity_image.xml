@@ -27,6 +27,7 @@
         android:layout_height="50dp"
         android:orientation="horizontal"
         >
+
         <Button
             android:id="@+id/make_tag"
             android:layout_width="match_parent"
