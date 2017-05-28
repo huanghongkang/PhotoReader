@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\PhotoReader2\\VolleyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "F:\\PhotoReader2\\VolleyDemo\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\PhotoReader2\\VolleyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\PhotoReader2\\VolleyDemo\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\PhotoReader2\\VolleyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\empty_photo.png",
+        "source": "E:\\PhotoReader2\\VolleyDemo\\src\\main\\res\\drawable-hdpi\\empty_photo.png"
+    },
+    {
+        "merged": "F:\\PhotoReader2\\VolleyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\empty_photo.png",
+        "source": "F:\\PhotoReader2\\VolleyDemo\\src\\main\\res\\drawable-hdpi\\empty_photo.png"
+    }
+]
